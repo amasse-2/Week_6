@@ -46,5 +46,8 @@ https://github.com/amasse-2/Week_6/assets/136534760/e80fdfa6-40f5-4452-a1c2-cdd1
 
 - For the Java programming Langage please visit: [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/) to find out which version is best for your operating system. 
 
-# Contribution
-- With the guidance and teachings of GK, the author of the code in project 4 and 5 is Anthony Masse (amasse-2)
+---
+
+# Contributions
+- With the guidance and teachings of GK, the author of the code in project 4 and 5 is Anthony Masse (amasse-2).
+- All additional contributions are welcome!
